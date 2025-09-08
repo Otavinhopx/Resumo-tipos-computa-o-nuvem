@@ -1,4 +1,4 @@
-#Tipos de Serviço da Microsoft Azure
+# Tipos de Serviço da Microsoft Azure
 
 A Microsoft Azure oferece vários tipos de serviços em nuvem, que permitem que empresas e usuários escolham a forma que querem usar os recursos sem precisar se preocupar com toda a infraestrutura por trás. Os principais modelos são IaaS, PaaS e SaaS, cada um com vantagens diferentes dependendo do que se precisa.
 
